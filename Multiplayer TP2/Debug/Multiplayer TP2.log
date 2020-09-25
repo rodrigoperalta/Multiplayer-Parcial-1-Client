@@ -1,0 +1,4 @@
+﻿  Multiplayer TP2.cpp
+E:\Rodrigo\IC\3-2\Multiplayer\Multiplayer TP2\TicTacToe-Client\Multiplayer TP2\Multiplayer TP2.cpp(31,6): warning C4101: 'port': variable local sin referencia
+E:\Rodrigo\IC\3-2\Multiplayer\Multiplayer TP2\TicTacToe-Client\Multiplayer TP2\Multiplayer TP2.cpp(34,7): warning C4101: 'dataToSend': variable local sin referencia
+  Multiplayer TP2.vcxproj -> E:\Rodrigo\IC\3-2\Multiplayer\Multiplayer TP2\TicTacToe-Client\Debug\Multiplayer TP2.exe
